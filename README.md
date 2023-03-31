@@ -21,5 +21,5 @@ I can do all of these proceses manually, why bother with learning python?
 - Any tool that you develop with ArcPy can be ran in the background.
 - - You can be doing other important work while your computer is performing tedious tasks.
 # - Repetition
-- Have you ever been tasked with performing the same exact thing to hundreds or even thousands of files?
+- Have you ever been tasked with performing the same exact thing to hundreds or even ***thousands*** of files?
 - - Using a simple iterator of loop in python can allow your computer to perform everysingle on of those tasks for you.
