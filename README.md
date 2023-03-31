@@ -1,6 +1,6 @@
 ### GIS-Tools
 # A repository where all of the python tools/workflows I have created can be stored.
-All tools can be found within the [tools(https://github.com/wessholders/GIS-Tools/tree/main/Tools) folder of this repo.
+All tools can be found within the [tools](https://github.com/wessholders/GIS-Tools/tree/main/Tools) folder of this repo.
 
 <br>
 
