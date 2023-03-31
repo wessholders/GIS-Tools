@@ -47,7 +47,7 @@ outRgnGrp.save(outputLocation + "\clumped_" + mID)
 
 #low Count	267483256 267483000
 #Int Count	281962805 281000000 
-#High Count	294269525 294269000
+#High Count	294269525 29426900
 
 
 # Extract connected inundation surface to be used as a mask for the original depth grid
