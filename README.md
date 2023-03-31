@@ -5,6 +5,6 @@ All tools can be found within the "tools" folder of this repo.
 <br>
 
 # What do I use to make these tools?
-- Pyhton 3
+- Python 3
 - Esri's ArcMap Pro
 - ArcPy
