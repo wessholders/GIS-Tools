@@ -1,4 +1,4 @@
-#### Connectivity Visualizer
+# Connectivity Visualizer
 ## This Tool will be useful in establishing any indirect or direct relationships various stakeholders have with eachother and the environment in a Social Ecological System (SES).
 
 <br>
