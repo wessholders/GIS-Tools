@@ -4,4 +4,4 @@
 <br>
 
 This tool will be made using Python
-- It will be my ...first... attempt at creating visual/graphical interface.
+- It will be my ___first___ attempt at creating visual/graphical interface.
