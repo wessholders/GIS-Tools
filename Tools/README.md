@@ -1,4 +1,4 @@
-# Useful tools for an ecosystem manager/scientist.
+# Useful tools
 ## All of these tools will require Python to run and most will require ArcGIS software.
 
 #### Tools I have created/am working on:
