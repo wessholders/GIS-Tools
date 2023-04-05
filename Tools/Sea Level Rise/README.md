@@ -1,6 +1,6 @@
 # Sea Level Rise Mapper
 
-### This tool will take an input coastal Digital Elevation Model (DEM) and create projected inundation surfaces based upon specified sea level rise scenarios.
+### This tool will take an input coastal Digital Elevation Model (DEM) and create projected inundation surfaces based upon specified sea level rise (SLR) scenarios.
 
 <br>
 
@@ -15,3 +15,7 @@ Tidally referenced Coastal DEM's of all coastal counties and territories in the 
 - All water crossings such as bridges and pipelines have been removed.
 - - This has the benefit of connecting all bodies of water.
 - - Without the removal of these water crossings, the script would view every water corssing as a dam.
+
+#### There are six .pyt files included in this repo:
+There is [Sea Level Rise.pyt]() which includes each and every step of the SLR mapping process, and there the five tools that go into the Sea Level Rise Mapper toolbox.
+
