@@ -5,9 +5,15 @@ All tools can be found within the [tools](https://github.com/wessholders/GIS-Too
 <br>
 
 # What do I use to make these tools?
-- Python 3
-- Esri's ArcMap Pro
+- Python
+      - NumPy
+      - ArcPy
+      - ArcGIS API
+      - Smartsheet API
+- ArcGIS Pro
 - ArcPy
+- Google Earth Engine
+- Smartsheet
 ## What's the big deal with developing custom tools for use in GIS?
 # Automation
 I can do all of these proceses manually, why bother with learning python?
