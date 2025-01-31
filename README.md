@@ -5,8 +5,8 @@ All tools can be found within the [tools](https://github.com/wessholders/GIS-Too
 <br>
 
 # What do I use to make these tools?
-* Python
-** NumPy
+- Python
+  - NumPy
 -- ArcPy
 -- ArcGIS API
 -- Smartsheet API
