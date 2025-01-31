@@ -7,9 +7,9 @@ All tools can be found within the [tools](https://github.com/wessholders/GIS-Too
 # What do I use to make these tools?
 - Python
   - NumPy
--- ArcPy
--- ArcGIS API
--- Smartsheet API
+  - ArcPy
+  - ArcGIS API
+  - Smartsheet API
 - ArcGIS Pro
 - ArcPy
 - Google Earth Engine
